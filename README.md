@@ -74,11 +74,10 @@ I build DX tooling in the open. These are VS Code extensions and utilities born 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" height="165" />
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" height="165" />
+  <img src="./profile-summary-card-output/stats.svg" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/languages.svg" alt="Top Languages" />
 </p>
 
 ---
