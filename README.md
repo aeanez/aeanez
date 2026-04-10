@@ -40,6 +40,13 @@ I build DX tooling in the open. These are VS Code extensions and utilities born 
       CLI stats dashboard for Claude Code usage, written in Go.
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Andrevops/claude-sandbox"><b>🧪 claude-sandbox</b></a><br/>
+      A safe, scoped execution environment for running Claude Code without worrying about blast radius.
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ---
@@ -86,4 +93,5 @@ I build DX tooling in the open. These are VS Code extensions and utilities born 
 
 <p>
   <a href="https://www.linkedin.com/in/andrevops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@andrevops"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
